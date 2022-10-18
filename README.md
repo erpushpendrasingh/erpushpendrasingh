@@ -14,7 +14,7 @@ I also did my B.E. in Civil Engineering 🎓 from RKDF University 🏛.
 My interests are coding, reading about planets, browsing, exploring new areas.
 </p>
 
-<img align="right" width="400" src="https://imgbin.com/png/h4kkNTmi/programmer-computer-programming-source-code-editor-software-developer-png" alt="">
+<img align="right" width="400" src="https://raw.githubusercontent.com/SandunWebDev/SandunWebDev/main/assets/developer_coding_1.gif" alt="">
 
 <br>
 <br>
