@@ -18,7 +18,7 @@ My interests are coding, reading about planets, browsing, exploring new areas.
 
 <br>
 <br>
-- 👨‍💻 Portfolio availaible at <a href="https://erpushpendrasingh.netlify.app/">https://erpushpendrasingh.netlify.app/</a>
+- 👨‍💻 Portfolio availaible at <a href="https://erpushpendrasingh.netlify.app/">https://erpushpendrasingh.github.io/</a>
 
 -    🌱 I’m currently learning **Full Stack Web Development and DSA at Masai School**
 
