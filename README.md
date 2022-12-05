@@ -50,7 +50,7 @@ My interests are coding, reading about planets, browsing, exploring new areas.
     <img src="https://camo.githubusercontent.com/3bcc8da5c94cefdf2d976837d1be601f4d44d36b58d9590e36debe834a6e34de/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4865726f6b752d3433303039383f7374796c653d666f722d7468652d6261646765266c6f676f3d6865726f6b75266c6f676f436f6c6f723d7768697465" alt="">
     <img src="https://camo.githubusercontent.com/6908bc5919e46cd787b8e5117f092f5ed37da82e8bd602e6339060ea0fff722c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3539334438383f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465" alt="">
 </p>
-
+<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erpushpendrasingh&" alt="erpushpendrasingh" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpushpendrasingh&show_icons=true&locale=en&layout=compact" alt="erpushpendrasingh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&locale=en" alt="erpushpendrasingh" /></p>
