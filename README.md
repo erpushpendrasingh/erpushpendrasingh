@@ -53,7 +53,8 @@ My interests are coding, reading about planets, browsing, exploring new areas.
 <p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erpushpendrasingh&" alt="erpushpendrasingh" /></p>
 <!-- <p align="center"><img  width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpushpendrasingh&show_icons=true&locale=en&layout=compact" alt="erpushpendrasingh" /></p> -->
 
-<p align="center" >&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&locale=en)" alt="erpushpendrasingh" /></p>
+<p align="center"><img  width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpushpendrasingh&show_icons=true&locale=en&layout=compact" alt="erpushpendrasingh" /></p>
+<!-- <p align="center" >&nbsp;<img align="center" src="[https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&locale=en](https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&locale=en)" alt="erpushpendrasingh" /></p> -->
 
 ### ✍️ Random Dev Quote
 
