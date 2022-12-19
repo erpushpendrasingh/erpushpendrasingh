@@ -87,18 +87,18 @@ My interests are coding,  browsing, exploring new areas.
 </p>
 <br> -->
 <h2><i>My GitHub Stats</i></h2>
-<p align="center" ><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erpushpendrasingh&" alt="erpushpendrasingh" /></p>
+<p  ><img  src="https://github-readme-streak-stats.herokuapp.com/?user=erpushpendrasingh&" alt="erpushpendrasingh" /></p>
 
 ![erpushpendrasingh's GitHub stats](https://github-readme-stats.vercel.app/api?username=erpushpendrasingh&show_icons=true&theme=radical)
 
-<p  align="center" >
+<p   >
 <!--     <img align="center" src="https://github-readme-stats.vercel.app/api?username=erpushpendrasingh
 &&show_icons=true&count_private=true&include_all_commits=true&show_icons=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="erpushpendrasingh
 " height="139" /> -->
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=erpushpendrasingh
 &layout=compact&border_radius=0&theme=dark" alt="erpushpendrasingh
 " height="139" /> -->
-     <p align="center"><img  width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpushpendrasingh&show_icons=true&locale=en&layout=compact" alt="erpushpendrasingh" /></p>
+     <p ><img  width="500px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erpushpendrasingh&show_icons=true&locale=en&layout=compact" alt="erpushpendrasingh" /></p>
 </p>
 <br>
 
