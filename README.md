@@ -20,7 +20,7 @@ My interests are coding,  browsing, exploring new areas.
 
 -    📫 How to reach me **erpushpendrasingh8900@gmail.com**
 
--    📄 Know about my experiences <a href="https://drive.google.com/file/d/1PuE0ZAPYxVaSjD4TX9qDjwuPtnJPThJX/view">https://drive.google.com/file/d/1PuE0ZAPYxVaSjD4TX9qDjwuPtnJPThJX/view</a>
+-    📄 Know about my experiences <a href="https://drive.google.com/file/d/1PuE0ZAPYxVaSjD4TX9qDjwuPtnJPThJX/view">Resume</a>
      <br>
      <br>
      <br>
