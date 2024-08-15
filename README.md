@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Pushpendra Singh</h1>
 <p align="center">
-  A passionate Full Stack Web Developer specializing in MERN Stack development. I bring a unique perspective from my background in Civil Engineering (B.E. from Bhabha College of Engineering) to building impactful projects. My journey in tech is driven by a love for coding, problem-solving, and exploring the latest in AI and 3D technologies.
+  A dedicated Full Stack Web Developer with a focus on the MERN Stack. My background in Civil Engineering (B.E. from Bhabha College of Engineering) equips me with a strong analytical mindset and problem-solving skills, which I now apply to developing robust, scalable web applications. My passion lies in turning complex challenges into elegant solutions, particularly in the realms of AI, machine learning, and 3D modeling.
 </p>
 
-<img align="right" width="400" src="https://github.com/erpushpendrasingh/your-repo/blob/main/assets/coding.gif" alt="Coding">
-
-
-<br>
-<br>
-
-- 🌱 I’m currently expanding my knowledge in **Full Stack Web Development, Data Structures & Algorithms**, and exploring **AI & 3D modeling**.
-- 👨‍💻 Explore my work on my [Portfolio](https://erpushpendrasingh.github.io/).
-- 📫 You can reach me at **erpushpendrasingh8900@gmail.com**.
-- 📄 Interested in my experiences? Check out my [Resume](https://drive.google.com/file/d/13nQIEVOt6zNw60f-7n7NoBxAZMKujE2J/view?usp=sharing).
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding Developer" width="400">
+</p>
 
 ---
 
-### 🛠️ **Languages, Tools, & Technologies**
+### 🌟 **Professional Summary**
+
+I am a software developer with a strong foundation in full-stack web development. With experience in developing responsive, user-friendly web applications, I bring a solid understanding of JavaScript, React, Node.js, Express, and MongoDB. My engineering background complements my technical skills, allowing me to approach problems with both a logical and creative mindset.
+
+- **Core Competencies:** MERN Stack, JavaScript, React, Node.js, Express, MongoDB, RESTful APIs, Git & GitHub, Agile Development
+- **Additional Skills:** Data Structures & Algorithms, Machine Learning, 3D Modeling with Blender, Version Control, Continuous Integration/Deployment (CI/CD)
+- **Soft Skills:** Effective Communication, Team Collaboration, Problem Solving, Project Management, Adaptability
+
+---
+
+### 🛠️ **Technical Expertise**
 
 <p align="center"> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
@@ -37,12 +40,19 @@
 
 ---
 
-### 🎨 **Featured Work**
+### 💼 **Professional Experience**
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/yourusername/your-repo/3d-animation.gif" alt="3D Animation" width="400">
-  <img src="https://user-images.githubusercontent.com/yourusername/your-repo/ai-model-demo.gif" alt="AI Model Demo" width="400">
-</p>
+**Full Stack Developer | Freelance**
+*Jan 2022 - Present*
+- Developed and maintained responsive web applications for clients across various industries, focusing on performance optimization and user experience.
+- Integrated third-party APIs to enhance functionality and streamline workflows.
+- Managed project timelines, collaborated with cross-functional teams, and delivered projects within deadlines.
+
+**Software Engineer Intern | [Company Name]**
+*May 2021 - Dec 2021*
+- Collaborated on developing a SaaS platform using React and Node.js, implementing features from user authentication to data visualization.
+- Assisted in debugging and optimizing code, reducing page load time by 30%.
+- Participated in daily stand-ups, contributing to Agile practices and improving the team's productivity.
 
 ---
 
@@ -60,6 +70,28 @@
 
 ---
 
+### 🌍 **Open Source Contributions**
+
+I believe in the power of open-source and actively contribute to various projects. Here are some of my contributions:
+
+- **Project Name:** [Contribution Link](#)
+  - **Description:** A brief description of what you contributed and its impact.
+
+- **Project Name:** [Contribution Link](#)
+  - **Description:** Another description highlighting your role and the outcome of your contribution.
+
+---
+
+### 📚 **Continuous Learning**
+
+I am a lifelong learner who constantly seeks to expand my knowledge. I am currently diving deeper into:
+
+- **Advanced React Patterns:** Exploring hooks, context API, and performance optimization techniques.
+- **Machine Learning:** Understanding the fundamentals and practical applications using TensorFlow.
+- **3D Graphics:** Enhancing my skills in Blender to create more sophisticated models and animations.
+
+---
+
 ### ✍️ **Random Dev Quote**
 
 <p align="center">
@@ -69,6 +101,8 @@
 ---
 
 ### 🌐 **Let's Connect**
+
+I’m always open to new opportunities and collaborations. Let’s connect and build something amazing together!
 
 <p align="left">
   <a href="https://www.linkedin.com/in/erpushpendrasingh/">
